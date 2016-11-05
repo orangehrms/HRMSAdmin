@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="11362" started-at="2016-11-05T12:08:00Z" finished-at="2016-11-05T12:08:12Z">
+  <suite name="Suite" duration-ms="9581" started-at="2016-11-05T15:16:45Z" finished-at="2016-11-05T15:16:54Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="11362" started-at="2016-11-05T12:08:00Z" finished-at="2016-11-05T12:08:12Z">
+    <test name="Test" duration-ms="9581" started-at="2016-11-05T15:16:45Z" finished-at="2016-11-05T15:16:54Z">
       <class name="com.Orangehrms.Welcome">
-        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.Orangehrms.Welcome@4501b7af]" name="beforeTest" is-config="true" duration-ms="8550" started-at="2016-11-05T17:38:00Z" finished-at="2016-11-05T17:38:09Z">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.Orangehrms.Welcome@4501b7af]" name="beforeTest" is-config="true" duration-ms="7398" started-at="2016-11-05T20:46:45Z" finished-at="2016-11-05T20:46:52Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method status="PASS" signature="googlehome()[pri:0, instance:com.Orangehrms.Welcome@4501b7af]" name="googlehome" duration-ms="2380" started-at="2016-11-05T17:38:09Z" finished-at="2016-11-05T17:38:11Z">
+        <test-method status="PASS" signature="googlehome()[pri:0, instance:com.Orangehrms.Welcome@4501b7af]" name="googlehome" duration-ms="1840" started-at="2016-11-05T20:46:52Z" finished-at="2016-11-05T20:46:54Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- googlehome -->
-        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.Orangehrms.Welcome@4501b7af]" name="afterTest" is-config="true" duration-ms="406" started-at="2016-11-05T17:38:11Z" finished-at="2016-11-05T17:38:12Z">
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.Orangehrms.Welcome@4501b7af]" name="afterTest" is-config="true" duration-ms="316" started-at="2016-11-05T20:46:54Z" finished-at="2016-11-05T20:46:54Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->
